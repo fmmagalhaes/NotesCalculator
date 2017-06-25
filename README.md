@@ -2,7 +2,7 @@
 Allows you to make arithmetic operation with song notes or chords.
 Based on stringed instruments.
 
-#How to use:
+# How to use:
 There are two types of commands you can use.
 
 <b>'Chord ='</b>  
