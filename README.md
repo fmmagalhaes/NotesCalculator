@@ -15,4 +15,4 @@ Or you can move your F chord 6 frets higher on the fretboard, making a B chord.
 This command prints the equivalent chord to the chord given moved n frets higher on the fretboard.  
 The command 'C + 1' prints 'C#'.  
 The command 'B + 4' prints 'Eb'.  
-And obviously, 'C + 13' prints 'C'.  
+And obviously, 'C + 12' prints 'C'.  
